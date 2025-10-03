@@ -1,4 +1,5 @@
-# Ignore build and environment files
-dist
-node_modules
-.env
+# dependencies
+node_modules/
+dist/
+# local env files
+.env*.local
